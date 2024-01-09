@@ -15,9 +15,6 @@ Skills: REACT / JS / HTML / CSS / SASS / BOOTSTRAP / TAILWIND / MUI / REDUX
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=brucehillwalley&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/brucehillwalley/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/brucehillwalley)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=brucehillwalley)  
 
