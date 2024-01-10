@@ -5,7 +5,7 @@
 I prefer React.
 <br/>
 
-- Python, HTML5, CSS3, Git, GitHub
+- JS, HTML5, CSS3, Git, GitHub, Bootstrap, Tailwind, MUI, Redux, Python
 
 
   
