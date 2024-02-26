@@ -11,7 +11,7 @@
 ### 📫 How to find me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-balcin/)
 [![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ibr.balcin@outlook.com)](mailto:ibr.balcin@outlook.com) 
-![](https://komarev.com/ghpvc/?username=brucehillwalley) 
+![](https://komarev.com/ghpvc/?username=brucehillwalley&color=blue&style=for-the-badge) 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=brucehillwalley" height="150" alt="stats graph"  />
