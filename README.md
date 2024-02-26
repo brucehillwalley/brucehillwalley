@@ -8,8 +8,10 @@
 
 - 🔭 I'm curious with programming, science, AI and science fiction(movies,series,books)
 - 🌿 I'm always open to learning
-- 📫 How to find me: 
-  - :office: [LinkedIn](https://www.linkedin.com/in/ibrahim-balcin/)
+- 📫 How to find me:
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-balcin/)
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ibr.balcin@outlook.com)](mailto:ibr.balcin@outlook.com) 
+[LinkedIn](https://www.linkedin.com/in/ibrahim-balcin/)
 
 
 ![](https://komarev.com/ghpvc/?username=brucehillwalley) 
