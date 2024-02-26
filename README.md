@@ -19,12 +19,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true&username=brucehillwalley" height="150" alt="languages graph"  />
 </div>
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=brucehillwalley&theme=chartreuse-dark" alt="my github stats" width="49%"/>  
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=brucehillwalley&theme=chartreuse-dark" alt="my commit status" width="49%" />
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucehillwalley&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brucehillwalley/)
 
