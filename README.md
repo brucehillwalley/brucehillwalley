@@ -10,7 +10,7 @@
 - 🌿 I'm always open to learning
 ### 📫 How to find me:
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-balcin/)
-[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ibr.balcin@outlook.com)](mailto:ibr.balcin@outlook.com) 
+[![Gmail: Melvin Aguilar](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ibr.balcin@gmail.com)](mailto:ibr.balcin@gmail.com) 
 ![](https://komarev.com/ghpvc/?username=brucehillwalley&color=blue&style=for-the-badge) 
 
 <div align="center">
