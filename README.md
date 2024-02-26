@@ -1,11 +1,11 @@
 ## Hi there 👋 Bruce is here. 
 
-### What I'm using ? 🛠     
+- 🔭 I curious with programming, science, AI and science fiction(movies,series,books)
+- 🌿 I'm always open to learning
+- 📫 How to find me: 
+  - :office: [LinkedIn](https://www.linkedin.com/in/ibrahim-balcin/)
+  
 
-I prefer React.
-<br/>
-
-- JS, HTML5, CSS3, Git, GitHub, Bootstrap, Sass, Tailwind, MUI, Redux, Python
 
 
   
