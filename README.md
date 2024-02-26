@@ -4,6 +4,8 @@
 - 🌿 I'm always open to learning
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/ibrahim-balcin/)
+
+![](https://komarev.com/ghpvc/?username=brucehillwalley)
   
 
 
