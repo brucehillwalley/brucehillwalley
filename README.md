@@ -1,4 +1,4 @@
-## Hi there 👋 İbrahim is here. 
+<h2 align="center">Hi 👋! My name is İbrahim and I'm a Front-end Developer with React skills and Back-end Developer trainee</h2>
 
 - 🔭 I'm curious with programming, science, AI and science fiction(movies,series,books)
 - 🌿 I'm always open to learning
