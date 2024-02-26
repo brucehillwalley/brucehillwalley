@@ -14,8 +14,7 @@
  
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brucehillwalley&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
 
-[![Linkedin: VPA] (https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/brucehillwalley/)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brucehillwalley/)
 
 
   
