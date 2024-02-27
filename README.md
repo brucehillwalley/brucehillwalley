@@ -63,6 +63,12 @@
 <h2 align="center">Achievements</h2>
 
 ###
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=brucehillwalley&theme=react"/>
