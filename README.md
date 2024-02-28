@@ -57,8 +57,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" height="30" width="42" alt="cypress logo"  />
 
 </div>
-
 <br>
+
+</br>
+
+<h2 align="center">My Top Projects</h2>
+
+###
+
+| Project Demo | Project Link   | Stack      | Project Preview |
+| :---         |     :---       | :---       |      :---:      |
+| [Stock App](https://stockk-app.netlify.app/)  | <h3>[Repo](https://github.com/brucehillwalley/stock-app-frontend)</h3>     | React, React Redux, Material UI, Formik, Yup, Persist | ![Stock App](https://github.com/brucehillwalley/stock-app-frontend/blob/main/src/assets/stockapp.gif)|
+| [My Portfolio Website](https://ibrahimbalcin-portfolio.vercel.app/)  | <h3>[Repo](https://github.com/brucehillwalley/bruce-portfolio-nextjs)</h3>     | NextJS, Tailwindcss, FramerMotion | ![Portfolio Page](https://github.com/brucehillwalley/bruce-portfolio-nextjs/blob/main/assets/Animation.gif)|
+<br>
+
+
 
 <h2 align="center">Achievements</h2>
 
