@@ -65,7 +65,7 @@
 | :---         |     :---       | :---       |      :---:      |
 | [Stock App](https://stockk-app.netlify.app/)  | <h3>[Repo](https://github.com/brucehillwalley/stock-app-frontend)</h3>     | React, React Redux, Material UI, Formik, Yup, Persist | ![Stock App](https://github.com/brucehillwalley/stock-app-frontend/blob/main/src/assets/stockapp.gif)|
 | [My Portfolio Website](https://ibrahimbalcin-portfolio.vercel.app/)  | <h3>[Repo](https://github.com/brucehillwalley/bruce-portfolio-nextjs)</h3>     | NextJS, Tailwindcss, FramerMotion | ![Portfolio Page](https://github.com/brucehillwalley/bruce-portfolio-nextjs/blob/main/assets/Animation.gif)|
-| [My Portfolio Website](https://fullstack-library-six.vercel.app/)  | <h3>[Repo](https://github.com/brucehillwalley/Fullstack_library)</h3>     | React, Tailwindcss, ExpressJS, Sequelize | ![Library App](https://github.com/brucehillwalley/Fullstack_library/blob/main/library.gif)|
+| [Library App](https://fullstack-library-six.vercel.app/)  | <h3>[Repo](https://github.com/brucehillwalley/Fullstack_library)</h3>     | React, Tailwindcss, ExpressJS, Sequelize | ![Library App](https://github.com/brucehillwalley/Fullstack_library/blob/main/library.gif)|
 
 </br>
 
