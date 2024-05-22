@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is İbrahim and I'm a MERN/Full Stack Developer-</h2>
+<h2 align="center">Hi 👋! My name is İbrahim and I'm a MERN/Full Stack Developer</h2>
 <!--
 <div align="center">
 
